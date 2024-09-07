@@ -1,0 +1,27 @@
+*{
+    
+    background: linear-gradient(#93b80d ,#93b80d);
+}
+h1{
+    text-align: center;
+}
+form{
+    padding-top: 10rem;
+    text-align: center;
+}
+
+input{
+   
+    width: 20rem;
+    display: flex;
+    -webkit-text-fill-color: rgb(13, 14, 14);
+    margin-top: 1rem;
+    margin-left: 28rem; 
+    
+}
+ 
+
+button{
+    margin-top: 1rem;
+    
+} 
